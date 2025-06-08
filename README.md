@@ -75,16 +75,17 @@ Hi, I'm Jyotiraditya, a Java developer with a strong interest in backend develop
 
 <div align="center">
   <table>
-    <tr>
-      <td>🎓 Bachelor of Technology in Computer Science</td>
-      <td>University Name</td>
-      <td>2020 - 2024</td>
+     <tr>
+      <td>🎓 Master of Computer Application </td>
+      <td>Chandigarh University</td>
+      <td>2023 - 2025</td>
     </tr>
     <tr>
-      <td>🎓 Higher Secondary Education</td>
-      <td>School Name</td>
-      <td>2018 - 2020</td>
+      <td>🎓 Bachelor of Computer Science</td>
+      <td>Holkar Science College, Indore</td>
+      <td>2020 - 2023</td>
     </tr>
+   
   </table>
 </div>
 
@@ -93,18 +94,18 @@ Hi, I'm Jyotiraditya, a Java developer with a strong interest in backend develop
 <div align="center">
   <table>
     <tr>
-      <td>📜 Java Programming Certification</td>
-      <td>Oracle</td>
+      <td>📜 Postman API Fundamentals</td>
+      <td>Postman</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>📜 Data Analytics</td>
+      <td>IBM</td>
       <td>2024</td>
     </tr>
     <tr>
-      <td>📜 AWS Cloud Practitioner</td>
-      <td>Amazon Web Services</td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td>📜 Docker & Kubernetes</td>
-      <td>Coursera</td>
+      <td>📜 React.js</td>
+      <td>Infosys</td>
       <td>2024</td>
     </tr>
   </table>
