@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <a href="mailto:jyotiraditya@gmail.com"><img src="https://img.shields.io/badge/Email-jyotiraditya%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/jyotiraditya/"><img src="https://img.shields.io/badge/LinkedIn-jyotiraditya-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:jyotiradityamishra97@gmail.com"><img src="https://img.shields.io/badge/Email-jyotiraditya%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/jyotiraditya-mishra-739941288/"><img src="https://img.shields.io/badge/LinkedIn-jyotiraditya-blue?style=flat-square&logo=linkedin"></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-India-orange?style=flat-square&logo=google-maps"></a>
 </div>
 
@@ -37,29 +37,27 @@ Hi, I'm Jyotiraditya, a Java developer with a strong interest in backend develop
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> Projects
 
+### 🔧 [ServiceAhead](https://github.com/Jyotiraditya/ServiceAhead)
+- Service booking and management platform connecting service providers with customers
+- Includes real-time booking, service tracking, and payment integration
+- *Technologies*: Java, Spring Boot, MySQL, REST APIs
+- *Results*: Streamlined service booking process with 95% uptime and fast response times
+### 📺 [Netflix Dashboard](https://github.com/Jyotiraditya/Netflix_Dashboard)
+- Interactive data visualization dashboard analyzing Netflix content trends
+- Provides insights into content distribution, ratings, and regional preferences
+- *Technologies*: Python, Pandas, Plotly, Streamlit
+- *Results*: Comprehensive analysis of 8000+ Netflix titles with dynamic filtering capabilities
 ### 🏠 [RentBudy](https://github.com/Jyotiraditya/RentBudy)
 - A comprehensive rental management platform for property owners and tenants
 - Built with Java Spring Boot backend and modern web technologies
 - *Technologies*: Java, Spring Boot, MySQL, HTML, CSS, JavaScript
 - *Features*: Property listing, tenant management, payment tracking, and dashboard analytics
 
-### 📺 [Netflix Dashboard](https://github.com/Jyotiraditya/Netflix_Dashboard)
-- Interactive data visualization dashboard analyzing Netflix content trends
-- Provides insights into content distribution, ratings, and regional preferences
-- *Technologies*: Python, Pandas, Plotly, Streamlit
-- *Results*: Comprehensive analysis of 8000+ Netflix titles with dynamic filtering capabilities
-
 ### 🐍 [Snake Game](https://github.com/Jyotiraditya/Snake-Game)
 - Classic Snake game implementation with modern UI and smooth gameplay
 - Features score tracking, difficulty levels, and responsive controls
 - *Technologies*: Java, Swing, AWT
 - *Features*: High score persistence, multiple difficulty modes, and clean graphics
-
-### 🔧 [ServiceAhead](https://github.com/Jyotiraditya/ServiceAhead)
-- Service booking and management platform connecting service providers with customers
-- Includes real-time booking, service tracking, and payment integration
-- *Technologies*: Java, Spring Boot, MySQL, REST APIs
-- *Results*: Streamlined service booking process with 95% uptime and fast response times
 
 ### ☁ [EcomCloudDeploy](https://github.com/Jyotiraditya/EcomCloudDeploy)
 - E-commerce application with cloud deployment using DevOps best practices
