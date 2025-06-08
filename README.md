@@ -45,12 +45,12 @@ Hi, I'm Jyotiraditya, a Java developer with a strong interest in backend develop
 ### 📺 [Netflix Dashboard](https://github.com/Jyotiraditya/Netflix_Dashboard)
 - Interactive data visualization dashboard analyzing Netflix content trends
 - Provides insights into content distribution, ratings, and regional preferences
-- *Technologies*: Python, Pandas, Plotly, Streamlit
+- *Technologies*: Microsoft Excel, Kaggle
 - *Results*: Comprehensive analysis of 8000+ Netflix titles with dynamic filtering capabilities
 ### 🏠 [RentBudy](https://github.com/Jyotiraditya/RentBudy)
 - A comprehensive rental management platform for property owners and tenants
 - Built with Java Spring Boot backend and modern web technologies
-- *Technologies*: Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+- *Technologies*: Next.js, Reat.js, MongoDB, HTML, CSS, JavaScript
 - *Features*: Property listing, tenant management, payment tracking, and dashboard analytics
 
 ### 🐍 [Snake Game](https://github.com/Jyotiraditya/Snake-Game)
@@ -62,13 +62,13 @@ Hi, I'm Jyotiraditya, a Java developer with a strong interest in backend develop
 ### ☁ [EcomCloudDeploy](https://github.com/Jyotiraditya/EcomCloudDeploy)
 - E-commerce application with cloud deployment using DevOps best practices
 - Implements CI/CD pipeline and containerized deployment
-- *Technologies*: Java, Spring Boot, Docker, Kubernetes, AWS
+- *Technologies*: Java, Docker, Kubernetes, Jenkins
 - *Features*: Auto-scaling, load balancing, and automated deployments
 
 ### 🪖 [Smart Helmet](https://github.com/Jyotiraditya/Smart-Helmet)
 - IoT-based safety solution for industrial workers with real-time monitoring
 - Integrates sensors for environmental hazard detection and worker safety
-- *Technologies*: Java, IoT sensors, MySQL, Spring Boot
+- *Technologies*: ESP32, Arduino Uno, Tinker CAD
 - *Results*: Enhanced workplace safety with real-time alerts and data analytics
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="25"> Education
