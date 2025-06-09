@@ -110,7 +110,9 @@ Hi, I'm Jyotiraditya, a Java developer with a strong interest in backend develop
     </tr>
   </table>
 </div>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" />
+</div>
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Support Me
 
 <div align="center">
