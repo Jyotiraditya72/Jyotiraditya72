@@ -50,7 +50,7 @@ Hi, I'm Jyotiraditya, a Java developer with a strong interest in backend develop
 ### 🏠 [RentBudy](https://github.com/Jyotiraditya/RentBudy)
 - A comprehensive rental management platform for property owners and tenants
 - Built with Java Spring Boot backend and modern web technologies
-- *Technologies*: Next.js, Reat.js, MongoDB, HTML, CSS, JavaScript
+- *Technologies*: Next.js, React.js, MongoDB, HTML, CSS, JavaScript
 - *Features*: Property listing, tenant management, payment tracking, and dashboard analytics
 
 ### 🐍 [Snake Game](https://github.com/Jyotiraditya/Snake-Game)
