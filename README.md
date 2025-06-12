@@ -42,6 +42,18 @@ Hi, I'm Jyotiraditya, a Java developer with a strong interest in backend develop
 - Includes real-time booking, service tracking, and payment integration
 - *Technologies*: Java, Spring Boot, MySQL, REST APIs
 - *Results*: Streamlined service booking process with 95% uptime and fast response times
+### 📚 Smart Lecture Assistant
+- AI-powered tool that automatically generates concise summaries and MCQ questions from video lectures and PDF documents.
+- Integrated advanced AI models for personalized and multilingual educational content extraction. 
+- Technologies: Python, Flask, Google Gemini Pro, OpenAI Whisper, PyMuPDF, Google Translate
+- Results: Reduced content review time by 60% and improved study efficiency
+  
+### ☁ [EcomCloudDeploy](https://github.com/Jyotiraditya/EcomCloudDeploy)
+- E-commerce application with cloud deployment using DevOps best practices
+- Implements CI/CD pipeline and containerized deployment
+- *Technologies*: Java, Docker, Kubernetes, Jenkins
+- *Features*: Auto-scaling, load balancing, and automated deployments
+
 ### 📺 [Netflix Dashboard](https://github.com/Jyotiraditya/Netflix_Dashboard)
 - Interactive data visualization dashboard analyzing Netflix content trends
 - Provides insights into content distribution, ratings, and regional preferences
@@ -59,11 +71,6 @@ Hi, I'm Jyotiraditya, a Java developer with a strong interest in backend develop
 - *Technologies*: Java, Swing, AWT
 - *Features*: High score persistence, multiple difficulty modes, and clean graphics
 
-### ☁ [EcomCloudDeploy](https://github.com/Jyotiraditya/EcomCloudDeploy)
-- E-commerce application with cloud deployment using DevOps best practices
-- Implements CI/CD pipeline and containerized deployment
-- *Technologies*: Java, Docker, Kubernetes, Jenkins
-- *Features*: Auto-scaling, load balancing, and automated deployments
 
 ### 🪖 [Smart Helmet](https://github.com/Jyotiraditya/Smart-Helmet)
 - IoT-based safety solution for industrial workers with real-time monitoring
