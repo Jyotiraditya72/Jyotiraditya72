@@ -51,7 +51,7 @@ Hi, I'm Jyotiraditya, a Java developer with a strong interest in backend develop
 ### ☁ [EcomCloudDeploy](https://github.com/Jyotiraditya/EcomCloudDeploy)
 - E-commerce application with cloud deployment using DevOps best practices
 - Implements CI/CD pipeline and containerized deployment
-- *Technologies*: Java, Docker, Kubernetes, Jenkins
+- *Technologies*: Python, Docker, Kubernetes, Jenkins
 - *Features*: Auto-scaling, load balancing, and automated deployments
 
 ### 📺 [Netflix Dashboard](https://github.com/Jyotiraditya/Netflix_Dashboard)
